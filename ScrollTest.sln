@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollTest", "ScrollTest.csproj", "{4C27FC64-5A05-48C3-BFC6-56545603243A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C27FC64-5A05-48C3-BFC6-56545603243A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C27FC64-5A05-48C3-BFC6-56545603243A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C27FC64-5A05-48C3-BFC6-56545603243A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C27FC64-5A05-48C3-BFC6-56545603243A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8A34196-F1E2-4BB8-BE29-D0A4718804DD}
+	EndGlobalSection
+EndGlobal
